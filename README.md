@@ -6,7 +6,7 @@
 
 >Explore motion, speed, distance, and time through an interactive driving simulation.
 
-[**Explore the Simulation →**](YOUR_DEPLOYED_URL)
+[**Explore the Simulation📈**](https://qronox-kinetrix.stark-kodex.workers.dev)
 
 ---
 
